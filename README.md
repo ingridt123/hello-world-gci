@@ -1,4 +1,4 @@
 # hello-world-gci
 sugar-labs
 
-hello!
+Hello Sugar Labs, my name is ingridt123!
